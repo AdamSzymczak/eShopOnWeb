@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshopeonweb-ADAMLAB
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: rg-az400-eshopeonweb-ADAMLAB
+  SUBSCRIPTION-ID: b94f0699-bb4c-4ed6-a0a7-a952e1aa3e77
   WEBAPP-NAME: az400-webapp-ADAMLAB123456
 
 
